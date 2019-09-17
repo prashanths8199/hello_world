@@ -1,1 +1,1 @@
-# hello_world
+Simple sgpa calculator coded in python
